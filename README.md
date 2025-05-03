@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/automateyournetwork-selector-mcp-server-badge.png)](https://mseep.ai/app/automateyournetwork-selector-mcp-server)
+
 Selector AI FastMCP
 
 This repository provides a full implementation of the Model Context Protocol (MCP) for Selector AI. It includes a streaming-capable server and a Docker-based interactive client that communicates via stdin/stdout.
